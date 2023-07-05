@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>西瓜節 &#8211; 師大青年報</title>
+	<atom:link href="/archive/category/%E5%B8%AB%E9%9D%92%E6%A0%A1%E5%9C%92/%E8%A5%BF%E7%93%9C%E7%AF%80/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Mon, 04 Jul 2022 04:29:11 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/archive/wp-content/uploads/2022/04/cropped-師青LOGO（白底藍字）-1-32x32.jpg</url>
+	<title>西瓜節 &#8211; 師大青年報</title>
+	<link>/archive/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">106682436</site>	<item>
+		<title>【550期】西瓜X愛情　在西瓜節說出你的愛吧！</title>
+		<link>/archive/2020/09/14404/</link>
+					<comments>/archive/2020/09/14404/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Sun, 27 Sep 2020 16:14:37 +0000</pubDate>
+				<category><![CDATA[各期新聞]]></category>
+		<category><![CDATA[西瓜節]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=14404</guid>
+
+					<description><![CDATA[【記者孫亦凡／報導】在炎炎夏日中，大口咬]]></description>
+		
+					<wfw:commentRss>/archive/2020/09/14404/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14404</post-id>	</item>
+		<item>
+		<title>【544期】2019師大西瓜節 : 不只是傳情</title>
+		<link>/archive/2019/05/13172/</link>
+					<comments>/archive/2019/05/13172/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Tue, 28 May 2019 02:26:52 +0000</pubDate>
+				<category><![CDATA[各期新聞]]></category>
+		<category><![CDATA[西瓜節]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=13172</guid>
+
+					<description><![CDATA[【記者陳嘉欣、林一方／報導】睽違已久的第]]></description>
+		
+					<wfw:commentRss>/archive/2019/05/13172/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">13172</post-id>	</item>
+	</channel>
+</rss>

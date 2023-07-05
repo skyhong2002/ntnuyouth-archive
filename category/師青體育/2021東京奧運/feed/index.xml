@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>2021東京奧運 &#8211; 師大青年報</title>
+	<atom:link href="/archive/category/%E5%B8%AB%E9%9D%92%E9%AB%94%E8%82%B2/2021%E6%9D%B1%E4%BA%AC%E5%A5%A7%E9%81%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Fri, 27 May 2022 06:53:08 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/archive/wp-content/uploads/2022/04/cropped-師青LOGO（白底藍字）-1-32x32.jpg</url>
+	<title>2021東京奧運 &#8211; 師大青年報</title>
+	<link>/archive/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">106682436</site>	<item>
+		<title>【2021東京奧運】競技系教師群：體育環境漸好</title>
+		<link>/archive/2021/11/15433/</link>
+					<comments>/archive/2021/11/15433/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 13:38:06 +0000</pubDate>
+				<category><![CDATA[2021東京奧運]]></category>
+		<category><![CDATA[師青體育]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=15433</guid>
+
+					<description><![CDATA[【記者林冠宏、吳質然/報導】臺灣在今年東]]></description>
+		
+					<wfw:commentRss>/archive/2021/11/15433/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15433</post-id>	</item>
+		<item>
+		<title>【2021東京奧運】體育系教授洪聰敏：競技運動是發揮人類潛能的最佳舞臺</title>
+		<link>/archive/2021/11/15427/</link>
+					<comments>/archive/2021/11/15427/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 13:36:10 +0000</pubDate>
+				<category><![CDATA[2021東京奧運]]></category>
+		<category><![CDATA[師青體育]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=15427</guid>
+
+					<description><![CDATA[【記者羅苓芳/報導】臺灣奧運代表選手於今]]></description>
+		
+					<wfw:commentRss>/archive/2021/11/15427/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15427</post-id>	</item>
+		<item>
+		<title>【2021東京奧運】射箭選手雷千瑩：靜態與動態之間極速轉換</title>
+		<link>/archive/2021/11/15422/</link>
+					<comments>/archive/2021/11/15422/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 13:35:42 +0000</pubDate>
+				<category><![CDATA[2021東京奧運]]></category>
+		<category><![CDATA[師青體育]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=15422</guid>
+
+					<description><![CDATA[【記者陳宏駿、涂允貞／報導】射箭運動在本]]></description>
+		
+					<wfw:commentRss>/archive/2021/11/15422/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15422</post-id>	</item>
+		<item>
+		<title>【2021東京奧運】舉重黑馬陳玟卉：化挫折為動力</title>
+		<link>/archive/2021/11/15414/</link>
+					<comments>/archive/2021/11/15414/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 13:35:16 +0000</pubDate>
+				<category><![CDATA[2021東京奧運]]></category>
+		<category><![CDATA[師青體育]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=15414</guid>
+
+					<description><![CDATA[【記者許霈玟、楊紫葳、胡如樺／報導】通往]]></description>
+		
+					<wfw:commentRss>/archive/2021/11/15414/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15414</post-id>	</item>
+	</channel>
+</rss>

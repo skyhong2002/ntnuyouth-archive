@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>＃師大男裙日 &#8211; 師大青年報</title>
+	<atom:link href="/archive/tag/%EF%BC%83%E5%B8%AB%E5%A4%A7%E7%94%B7%E8%A3%99%E6%97%A5/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Thu, 09 Jun 2022 18:51:00 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/archive/wp-content/uploads/2022/04/cropped-師青LOGO（白底藍字）-1-32x32.jpg</url>
+	<title>＃師大男裙日 &#8211; 師大青年報</title>
+	<link>/archive/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">106682436</site>	<item>
+		<title>【師大男裙日】「裙」起打破界線　師大學生自主發起</title>
+		<link>/archive/2019/06/13211/</link>
+					<comments>/archive/2019/06/13211/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2019 07:03:03 +0000</pubDate>
+				<category><![CDATA[師青校園]]></category>
+		<category><![CDATA[＃師大男裙日]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=13211</guid>
+
+					<description><![CDATA[【記者吳芝頤／報導】「師大男裙日」今（1]]></description>
+		
+					<wfw:commentRss>/archive/2019/06/13211/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">13211</post-id>	</item>
+		<item>
+		<title>【師大男裙日】響應性平運動　師大男裙日發起人籲打破衣服界線</title>
+		<link>/archive/2019/06/13197/</link>
+					<comments>/archive/2019/06/13197/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Sun, 09 Jun 2019 05:18:48 +0000</pubDate>
+				<category><![CDATA[師青校園]]></category>
+		<category><![CDATA[＃師大男裙日]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=13197</guid>
+
+					<description><![CDATA[【記者廖郁菁／報導】五月初板橋高中發起板]]></description>
+		
+					<wfw:commentRss>/archive/2019/06/13197/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">13197</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>＃Covid-19 &#8211; 師大青年報</title>
+	<atom:link href="/archive/tag/%EF%BC%83covid-19/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Mon, 04 Jul 2022 04:35:27 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/archive/wp-content/uploads/2022/04/cropped-師青LOGO（白底藍字）-1-32x32.jpg</url>
+	<title>＃Covid-19 &#8211; 師大青年報</title>
+	<link>/archive/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">106682436</site>	<item>
+		<title>【讀者投書】有關學生投書「給校長的一封信」校方回覆內容</title>
+		<link>/archive/2020/04/13965/</link>
+					<comments>/archive/2020/04/13965/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2020 10:34:26 +0000</pubDate>
+				<category><![CDATA[讀者投書]]></category>
+		<category><![CDATA[＃Covid-19]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=13965</guid>
+
+					<description><![CDATA[4月9日師大第二例確診後，一位匿名的師大]]></description>
+		
+					<wfw:commentRss>/archive/2020/04/13965/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">13965</post-id>	</item>
+		<item>
+		<title>【讀者投書】給校長的一封信，別讓師大生被社會排擠</title>
+		<link>/archive/2020/04/13959/</link>
+					<comments>/archive/2020/04/13959/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2020 12:09:29 +0000</pubDate>
+				<category><![CDATA[讀者投書]]></category>
+		<category><![CDATA[＃Covid-19]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=13959</guid>
+
+					<description><![CDATA[【文／師大碩士生匿名投書】 吳正己校長您]]></description>
+		
+					<wfw:commentRss>/archive/2020/04/13959/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">13959</post-id>	</item>
+		<item>
+		<title>校園防疫大體檢　急需更完善配套（1/20～3/31 師大防疫總整理 ）</title>
+		<link>/archive/2020/04/13871/</link>
+					<comments>/archive/2020/04/13871/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 01:21:24 +0000</pubDate>
+				<category><![CDATA[師青即時]]></category>
+		<category><![CDATA[＃Covid-19]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=13871</guid>
+
+					<description><![CDATA[【記者陳品聿／報導】昨日（3/31）師大]]></description>
+		
+					<wfw:commentRss>/archive/2020/04/13871/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">13871</post-id>	</item>
+	</channel>
+</rss>

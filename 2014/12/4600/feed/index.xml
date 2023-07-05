@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	〈打給「Hii星人」說心事　溫馨電話亭引熱烈迴響〉的留言	</title>
+	<atom:link href="/archive/2014/12/4600/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/2014/12/4600/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Sat, 06 Dec 2014 12:16:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+</channel>
+</rss>

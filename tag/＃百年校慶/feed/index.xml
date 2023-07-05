@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>＃百年校慶 &#8211; 師大青年報</title>
+	<atom:link href="/archive/tag/%EF%BC%83%E7%99%BE%E5%B9%B4%E6%A0%A1%E6%85%B6/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Mon, 04 Jul 2022 04:41:59 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/archive/wp-content/uploads/2022/04/cropped-師青LOGO（白底藍字）-1-32x32.jpg</url>
+	<title>＃百年校慶 &#8211; 師大青年報</title>
+	<link>/archive/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">106682436</site>	<item>
+		<title>【553期】臺北高校、師大校史合併？吳文星：違反歷史事實</title>
+		<link>/archive/2021/03/14851/</link>
+					<comments>/archive/2021/03/14851/#comments</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Tue, 30 Mar 2021 15:07:59 +0000</pubDate>
+				<category><![CDATA[各期新聞]]></category>
+		<category><![CDATA[＃百年校慶]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=14851</guid>
+
+					<description><![CDATA[2018年11月，師大在第121次校務會]]></description>
+		
+					<wfw:commentRss>/archive/2021/03/14851/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14851</post-id>	</item>
+	</channel>
+</rss>

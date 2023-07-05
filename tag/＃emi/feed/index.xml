@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>＃EMI &#8211; 師大青年報</title>
+	<atom:link href="/archive/tag/%EF%BC%83emi/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Mon, 04 Jul 2022 05:15:11 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/archive/wp-content/uploads/2022/04/cropped-師青LOGO（白底藍字）-1-32x32.jpg</url>
+	<title>＃EMI &#8211; 師大青年報</title>
+	<link>/archive/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">106682436</site>	<item>
+		<title>【557期】揭開EMI的神秘面紗　專訪教育系教授林子斌</title>
+		<link>/archive/2022/06/17310/</link>
+					<comments>/archive/2022/06/17310/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2022 10:14:47 +0000</pubDate>
+				<category><![CDATA[各期新聞]]></category>
+		<category><![CDATA[＃557期]]></category>
+		<category><![CDATA[＃EMI]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=17310</guid>
+
+					<description><![CDATA[【記者陳子敏、蔡晉瑞／報導】為了因應全球]]></description>
+		
+					<wfw:commentRss>/archive/2022/06/17310/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17310</post-id>	</item>
+		<item>
+		<title>【557期】厚植學生英語能力　EMI課程提供助力</title>
+		<link>/archive/2022/06/17307/</link>
+					<comments>/archive/2022/06/17307/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2022 10:03:34 +0000</pubDate>
+				<category><![CDATA[各期新聞]]></category>
+		<category><![CDATA[＃557期]]></category>
+		<category><![CDATA[＃EMI]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=17307</guid>
+
+					<description><![CDATA[【記者程怡慈、蔡晉瑞／報導】臺師大於本學]]></description>
+		
+					<wfw:commentRss>/archive/2022/06/17307/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17307</post-id>	</item>
+		<item>
+		<title>【557期】助力還是阻力？學生會學權部談EMI課程對學生的影響</title>
+		<link>/archive/2022/06/17303/</link>
+					<comments>/archive/2022/06/17303/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2022 09:49:41 +0000</pubDate>
+				<category><![CDATA[各期新聞]]></category>
+		<category><![CDATA[＃557期]]></category>
+		<category><![CDATA[＃EMI]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=17303</guid>
+
+					<description><![CDATA[【記者黃瑀喬、蔡晉瑞／報導】EMI雙語計]]></description>
+		
+					<wfw:commentRss>/archive/2022/06/17303/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">17303</post-id>	</item>
+	</channel>
+</rss>

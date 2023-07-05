@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>＃同志大遊行 &#8211; 師大青年報</title>
+	<atom:link href="/archive/tag/%EF%BC%83%E5%90%8C%E5%BF%97%E5%A4%A7%E9%81%8A%E8%A1%8C/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Mon, 04 Jul 2022 04:40:04 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/archive/wp-content/uploads/2022/04/cropped-師青LOGO（白底藍字）-1-32x32.jpg</url>
+	<title>＃同志大遊行 &#8211; 師大青年報</title>
+	<link>/archive/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">106682436</site>	<item>
+		<title>13萬人披上彩虹齊聚市府　祁家威、《刻在》紛現身！　</title>
+		<link>/archive/2020/11/14575/</link>
+					<comments>/archive/2020/11/14575/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2020 00:43:59 +0000</pubDate>
+				<category><![CDATA[師青即時]]></category>
+		<category><![CDATA[＃同志大遊行]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=14575</guid>
+
+					<description><![CDATA[【記者廖郁菁／報導】第十八屆的臺灣同志遊]]></description>
+		
+					<wfw:commentRss>/archive/2020/11/14575/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14575</post-id>	</item>
+		<item>
+		<title>同志大遊行回顧：彩虹大軍再現 追求平權未來　</title>
+		<link>/archive/2018/11/12499/</link>
+					<comments>/archive/2018/11/12499/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Wed, 07 Nov 2018 15:42:13 +0000</pubDate>
+				<category><![CDATA[師青圖輯]]></category>
+		<category><![CDATA[＃同志大遊行]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=12499</guid>
+
+					<description><![CDATA[【 記者祝嘉敏／報導 】2018年第16]]></description>
+		
+					<wfw:commentRss>/archive/2018/11/12499/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">12499</post-id>	</item>
+		<item>
+		<title>【師青圖輯】萬人「同」在　彩虹上街大遊行</title>
+		<link>/archive/2017/10/11312/</link>
+					<comments>/archive/2017/10/11312/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Sun, 29 Oct 2017 14:26:55 +0000</pubDate>
+				<category><![CDATA[師青圖輯]]></category>
+		<category><![CDATA[＃同志大遊行]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=11312</guid>
+
+					<description><![CDATA[【記者陳琤／報導】第15屆台灣同志大遊行]]></description>
+		
+					<wfw:commentRss>/archive/2017/10/11312/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">11312</post-id>	</item>
+		<item>
+		<title>同志大遊行倒數　總召小白談「年齡不設限」</title>
+		<link>/archive/2015/10/7083/</link>
+					<comments>/archive/2015/10/7083/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2015 11:53:10 +0000</pubDate>
+				<category><![CDATA[師青即時]]></category>
+		<category><![CDATA[＃同志大遊行]]></category>
+		<guid isPermaLink="false">http://dell.ccps.tp.edu.tw/~yhl/wordpress/?p=7083</guid>
+
+					<description><![CDATA[【記者陳爾嘉、林蕙心、呂晏慈/報導】迎接]]></description>
+		
+					<wfw:commentRss>/archive/2015/10/7083/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">7083</post-id>	</item>
+	</channel>
+</rss>

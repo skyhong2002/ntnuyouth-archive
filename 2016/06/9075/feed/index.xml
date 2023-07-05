@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	〈亂象真的無從改善？　「媒觀」集公民力量監督媒體〉的留言	</title>
+	<atom:link href="/archive/2016/06/9075/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/2016/06/9075/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Wed, 27 Apr 2022 09:05:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+</channel>
+</rss>

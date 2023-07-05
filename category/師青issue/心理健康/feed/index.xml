@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>心理健康 &#8211; 師大青年報</title>
+	<atom:link href="/archive/category/%E5%B8%AB%E9%9D%92issue/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/feed/" rel="self" type="application/rss+xml" />
+	<link>/archive/</link>
+	<description>一份屬於師大的校園新聞報</description>
+	<lastBuildDate>Mon, 27 Jun 2022 09:07:35 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/archive/wp-content/uploads/2022/04/cropped-師青LOGO（白底藍字）-1-32x32.jpg</url>
+	<title>心理健康 &#8211; 師大青年報</title>
+	<link>/archive/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">106682436</site>	<item>
+		<title>【心理健康】學生輔導最前線　學輔中心爭取拓寬諮商空間</title>
+		<link>/archive/2020/12/14725/</link>
+					<comments>/archive/2020/12/14725/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2020 06:49:32 +0000</pubDate>
+				<category><![CDATA[師青ISSUE]]></category>
+		<category><![CDATA[心理健康]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=14725</guid>
+
+					<description><![CDATA[【記者蔡晉瑞／報導】近期大學校園屢傳自殺]]></description>
+		
+					<wfw:commentRss>/archive/2020/12/14725/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14725</post-id>	</item>
+		<item>
+		<title>【心理健康】憂自殺模仿效應　吳正己：盡速補充諮商人力</title>
+		<link>/archive/2020/12/14718/</link>
+					<comments>/archive/2020/12/14718/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2020 09:30:49 +0000</pubDate>
+				<category><![CDATA[師青ISSUE]]></category>
+		<category><![CDATA[心理健康]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=14718</guid>
+
+					<description><![CDATA[【記者廖郁菁、蔡晉瑞／報導】學生自殺事件]]></description>
+		
+					<wfw:commentRss>/archive/2020/12/14718/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14718</post-id>	</item>
+		<item>
+		<title>【心理健康】悲劇敲響警鐘　輔導機制擔重責</title>
+		<link>/archive/2020/12/14712/</link>
+					<comments>/archive/2020/12/14712/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 14:36:37 +0000</pubDate>
+				<category><![CDATA[師青ISSUE]]></category>
+		<category><![CDATA[心理健康]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=14712</guid>
+
+					<description><![CDATA[【記者陳宏駿、林太龍／報導】師大與台大同]]></description>
+		
+					<wfw:commentRss>/archive/2020/12/14712/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14712</post-id>	</item>
+		<item>
+		<title>【心理健康】只要你有需要　專導永遠在這裡</title>
+		<link>/archive/2020/12/14704/</link>
+					<comments>/archive/2020/12/14704/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 02:42:26 +0000</pubDate>
+				<category><![CDATA[師青ISSUE]]></category>
+		<category><![CDATA[心理健康]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=14704</guid>
+
+					<description><![CDATA[【記者陳宏駿／報導】台大近期發生三起自殺]]></description>
+		
+					<wfw:commentRss>/archive/2020/12/14704/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14704</post-id>	</item>
+		<item>
+		<title>【心理健康】諮商管道有用嗎？臺師大生：不熟不願講</title>
+		<link>/archive/2020/12/14701/</link>
+					<comments>/archive/2020/12/14701/#respond</comments>
+		
+		<dc:creator><![CDATA[ntnuyouth]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2020 06:12:13 +0000</pubDate>
+				<category><![CDATA[師青ISSUE]]></category>
+		<category><![CDATA[心理健康]]></category>
+		<guid isPermaLink="false">http://64.110.106.65/?p=14701</guid>
+
+					<description><![CDATA[【記者廖郁菁／報導】日前臺大接連發生三起]]></description>
+		
+					<wfw:commentRss>/archive/2020/12/14701/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14701</post-id>	</item>
+	</channel>
+</rss>
